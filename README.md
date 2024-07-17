@@ -7,4 +7,5 @@ Basic recipe website
 ## Skills Demonstrated
 
 - HTML
-- Git
+- Git (Command line only)
+- Bash (Creating all files and directories)

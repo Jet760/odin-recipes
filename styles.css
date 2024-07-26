@@ -50,4 +50,6 @@ h2{
 
 .thumbnail-img{
     height: 3rem;
+    display: block;
+    margin: auto;
 }

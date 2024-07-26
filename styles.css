@@ -18,12 +18,36 @@ h2{
     border: rgb(219, 102, 204) 1px solid;
 }
 
-.nav, .nav li, .nav a{
+.nav, .nav li, .nav a, .nav h3{
     background-color: rgb(209, 182, 205);
-    font-size: large;
 }
+
+.nav li{
+    display: inline-block;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid rgb(219, 102, 204);
+}
+
+.nav a{
+    justify-content: center;
+    vertical-align: middle;
+}
+
+.nav h3{
+    margin: 0;
+}
+
 
 #description{
     border: rgb(219, 102, 204) 1px dashed;
     padding: 5px;
+}
+
+.cover-img{
+    width: 100%;
+}
+
+.thumbnail-img{
+    height: 3rem;
 }
